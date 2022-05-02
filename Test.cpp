@@ -20,6 +20,7 @@ TEST_CASE("income ,coins, roles and coup"){
     Captain captain{game_1, "Danny"};
     Contessa contessa{game_1, "Eran"};
     
+    //check coins of players
     CHECK(duke.coins()==0);
     CHECK(assassin.coins()==0);
     CHECK(ambassador.coins()==0);
