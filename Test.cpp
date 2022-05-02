@@ -57,6 +57,7 @@ TEST_CASE("income ,coins, roles and coup"){
     CHECK_THROWS(duke.coup(assassin));
     CHECK_THROWS(ambassador.coup(assassin));
  
+ ////
 
     
 }
