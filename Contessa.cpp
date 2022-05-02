@@ -6,4 +6,14 @@ namespace coup
     {
         // in part B
     }
+
+    void Contessa::coup(const Player&)
+    {
+        //in B
+    }
+    
+    void Contessa::block(const Player& p1)
+    {
+        //In B...
+    }
 }

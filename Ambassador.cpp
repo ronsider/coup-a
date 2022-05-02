@@ -10,4 +10,9 @@ namespace coup
     {
         //part B
     }
+    void Ambassador::coup(const Player& p1)
+    {
+          //implement later in Part B
+    }
+    
 }

@@ -22,13 +22,9 @@ namespace coup
         {
             return _role;
         }
-        void coup(const Player&)override
-        {
-            //implement later in Part B
-        }
-        void block(const Player&) override
-         {
-            //implement later in Part B 
-         }
+        void coup(const Player&);
+        
+        void block(const Player&);
+         
     };
 }

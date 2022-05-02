@@ -6,4 +6,9 @@ namespace coup
     {
         //part B..
     }
+
+    void Assassin::coup(const Player& p1)
+    {
+        //implement in B...
+    }
 }

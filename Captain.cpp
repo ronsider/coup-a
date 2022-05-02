@@ -10,4 +10,13 @@ namespace coup
     {
         //part B..
     }
+    void Captain::coup(const Player& p1)
+    {
+        //implement in part B
+    }
+
+    void Captain::block(const Player& p1)
+    {
+    //implement in part B
+    }
 }
