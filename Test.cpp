@@ -12,7 +12,8 @@ using namespace coup;
 TEST_CASE("income ,coins, roles and coup"){
     Game game_1{};
 
-   //check if asd
+   //players: avi ,ben, gadi, danny ,eran
+   // each deployed to game 1
     Duke duke{game_1, "Avi"};
     Assassin assassin{game_1, "Ben"};
     Ambassador ambassador{game_1, "Gadi"};
