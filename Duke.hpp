@@ -30,5 +30,10 @@ namespace coup
          {
             //implement later in Part B 
          }
+
+         void tax()
+         {
+            //implement later in Part B  
+         }
     };
 }

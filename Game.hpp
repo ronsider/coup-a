@@ -1,3 +1,4 @@
+#pragma once
 #include <vector>
 #include <string>
 using std::vector;
@@ -10,6 +11,11 @@ namespace coup
         Game();
 
         vector<string> players()const;
+
+        string turn()
+        {
+            return "dummy variable";//implement later in part B
+        }
         
 
         private:

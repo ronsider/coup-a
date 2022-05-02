@@ -30,5 +30,7 @@ namespace coup
          {
             //implement later in Part B 
          }
+
+         void steal(Player&);
     };
 }
