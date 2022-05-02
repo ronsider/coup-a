@@ -12,8 +12,7 @@ using namespace coup;
 TEST_CASE("income ,coins, roles and coup"){
     Game game_1{};
 
-    /* This player drew the "Duke" card, his name is Moshe
-    and he is a player in game_1 */
+   //check if asd
     Duke duke{game_1, "Avi"};
     Assassin assassin{game_1, "Ben"};
     Ambassador ambassador{game_1, "Gadi"};
