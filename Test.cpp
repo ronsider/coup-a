@@ -27,6 +27,7 @@ TEST_CASE("income ,coins, roles and coup"){
     CHECK(captain.coins()==0);
     CHECK(contessa.coins()==0);
 
+    //check the roles for each player
     CHECK(duke.role()=="duke");
     CHECK(assassin.role()=="assassin");
     CHECK(ambassador.role()=="ambassador");
